@@ -28,6 +28,9 @@ $ grunt serve
 ```
 [http://localhost:8000](http://localhost:8000)
 
+## Print
+[http://localhost:8000/?print-pdf#/](http://localhost:8000/?print-pdf#/)
+
 ## File structure
 
 ```

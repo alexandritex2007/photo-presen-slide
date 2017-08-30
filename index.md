@@ -102,5 +102,5 @@
 ## 最後に
 ポートレートで相手の人生変わる<!-- .element: class="fragment" data-fragment-index="1" -->
 
-そのためには自分が犠牲になる<!-- .element: class="fragment" data-fragment-index="2" -->
+そのためには自分が犠牲になることも必要<!-- .element: class="fragment" data-fragment-index="2" -->
 
