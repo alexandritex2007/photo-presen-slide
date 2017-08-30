@@ -1,6 +1,10 @@
 # photo-presen-slide
 
 ## Setup
+### node.js install
+```
+$ brew install node.js
+```
 
 ### Grunt install
 ```
