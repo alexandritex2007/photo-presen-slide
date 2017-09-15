@@ -109,15 +109,23 @@
 実際に撮影した写真
 
 
-![](img/photo01.jpg)
+１４時頃。カフェに来ちゃったけど洗濯物大丈夫かな。
+
+![](img/photo01.jpg)<!-- .element: class="fragment" data-fragment-index="1" style="width: 90%;" -->
 
 
-![](img/photo02.jpg)
+１４時頃。彼との待ち合わせ。３０分過ぎてもこない。
+
+![](img/photo02.jpg)<!-- .element: class="fragment" data-fragment-index="1" style="width: 90%;" -->
 
 
-![](img/photo03.jpg)
+１３時頃。お昼も食べたし次どこに行く？ドライブ？映画？
+
+![](img/photo03.jpg)<!-- .element: class="fragment" data-fragment-index="1" style="width: 90%;" -->
 
 
-![](img/photo04.jpg)
+講義の休憩時間。楽しかったけど疲れた。
+
+![](img/photo04.jpg)<!-- .element: class="fragment" data-fragment-index="1" style="width: 90%;" -->
 
 
