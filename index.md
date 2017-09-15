@@ -9,7 +9,8 @@
  写真を上達させたいのなら、まずは写真を楽しみそして写真を撮るのが好きになること。<!-- .element: style="text-align: left;" -->
 
 
----
+## 講義の様子
+![](img/prof_teacher01.jpg)<!-- .element: style="width: 80%;" -->
 
 
 ## ポートレートに必要なのはコミュニケーション
@@ -103,4 +104,20 @@
 ポートレートで相手の人生変わる<!-- .element: class="fragment" data-fragment-index="1" -->
 
 そのためには自分が犠牲になることも必要<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+実際に撮影した写真
+
+
+![](img/photo01.jpg)
+
+
+![](img/photo02.jpg)
+
+
+![](img/photo03.jpg)
+
+
+![](img/photo04.jpg)
+
 
